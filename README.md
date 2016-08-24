@@ -1,3 +1,3 @@
 # README
 
-Example repository for demo checkout pr to local.
+Example repository for demo Checkout GitHub Pull Requests locally
